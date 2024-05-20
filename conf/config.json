@@ -1,0 +1,6 @@
+{
+  "Token": "your_Bot_token",
+  "Prefix": "."
+  "StatusMode": "DND, ONLINE, IDLE",
+  "StatusText": "Shiii I'm Alive!"
+}
